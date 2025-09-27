@@ -1,0 +1,59 @@
+# Python virtual environment
+mkdocs-env/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+
+# Visual Studio Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package and build artifacts
+dist/
+build/
+*.egg
+*.eggs/
+*.whl
+site/
+
+# Testing and coverage
+.coverage
+coverage.xml
+*.cover
+.pytest_cache/
+htmlcov/
+
+# Environment and configuration files
+.env
+*.env
+.env.local
+.env.development
+.env.production
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+temp/
+tmp/
+
+# Cache directory
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+
+# C extensions
+*.so
